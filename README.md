@@ -1,6 +1,6 @@
 ### Yifan Bai — Machine Learning Engineer
 
-Recommendation · Ranking · Search. 7 years at TikTok/ByteDance and Baidu.
+Machine Learning Engineer 7 years at TikTok/ByteDance and Baidu.
 
 **Open source**
 - **Core contributor to [PaddlePaddle/PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim)** —
